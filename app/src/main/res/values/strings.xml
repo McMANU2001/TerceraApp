@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TerceraApp</string>
+    <string name="hint_Nombre">Nombre: </string>
+    <string name="hint_Celular">Celular: </string>
+    <string name="btn_mostrar">Mostrar</string>
+    <string name="btn_invertir">INVERTIR</string>
+</resources>
